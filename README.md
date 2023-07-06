@@ -2,9 +2,13 @@
 
 Just
 
+````
+npm i
+```, then
+
 ```bash
 npm start
-```
+````
 
 and enjoy :)
 
@@ -17,3 +21,5 @@ npm run test
 ```
 
 and enjoy :)
+
+See the coverage if needed!
